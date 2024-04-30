@@ -56,13 +56,24 @@ I am going to be using the Unity game engine to help me create my game. The docu
 
 2. What is your plan to practice the new material?  In other words, what is the order in which you plan to learn the material before working on your demonstration software?
 
-I will 
+* Day 1 (Mon): Familiarize myself with the Unity interface and basic concepts.
+* Day 2 (Wed): Learn about creating and manipulating game objects in Unity.
+* Day 3 (Fri): Understand user input handling in Unity, including keyboard and mouse input.
+* Day 4 (Mon): Implement basic graphics rendering and movement for game objects.
+* Day 5 (Wed): Work on integrating user input with object movement and interaction.
+* Day 6 (Fri): Experiment with adding additional features like sound effects or multiple levels. 
 
 3. What demonstration software do you plan on submitting at the end of the Sprint (note that this can and may change)?
 
+Plan to submit a simple game prototype built in Unity that meets the requirements outlined, including displaying graphics, taking user input, and having moveable objects. Stretch challenges may be attempted depending on progress.
+
 4. Identify the days, times, and locations that you will work on the module.
 
+I will work on this module on the days that I have class so it is fresh: Mon, Wed, Fri for 2 hours each of those days on my home computer.
+
 5. Identify both a technical risk and a behavioral risk that you antcipate may occur during this Sprint.  What is your mitgigation plan?
+
+Set clear daily goals and deadlines, use time management techniques like the Pomodoro method, and regularly assess progress to stay on track.
 
 
 ## Part 2 - Time Log
