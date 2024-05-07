@@ -90,8 +90,8 @@ Note that `IM` stands for Individual Module and `TP` stands for Team Project.
 |   5/1    |  10:20   |   TP   |  Setting up respository all connected      |    0:55     |
 |   5/1    |   1:45   |   TP   |  Learning tkinter, followed tutorial       |    2:00     |
 |   5/1    |   8:30   |   IM   | Downloading Unity, setting up environment  |    2:00     |
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
+|   5/6    |  10:30   |   TP   |   Created wireframe for our app            |    0:45     |
+|   5/6    |   2:30   |   IM   |Creating flappy bird app basic functionality|    6:30     |
 |          |          |        |                                            |             |
 |          |          |        |                                            |             |
 |          |          |        |                                            |             |
