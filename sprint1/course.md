@@ -105,19 +105,20 @@ _Note: Add more rows as needed._
 
 This section should be filled out at the end of the Sprint and submitted.
 
-1. Put your GitHub link for your demonstration software here: https://simmer.io/@cosmo4/flappy-pig The Unity project folder was huge and I had trouble uploading everything to github. I included all my C# coding files in the github repo. I used Simmer to upload my game so you can play it if you like.
+1. Put your GitHub link for your demonstration software here: https://simmer.io/@cosmo4/flappy-pig The Unity project folder was huge and I had trouble uploading everything to github. I included all my C# coding files in the github repo. I used Simmer to upload my game so you can play it if you like. 
+https://github.com/cosmo4/CSE-310/tree/main/sprint1/flappy-pig
 
-2. Put your YouTube link for your code walkthrough and demo video here:
+2. Put your YouTube link for your code walkthrough and demo video here: https://youtu.be/TrGZsUKjURM
 
 3. Complete the following checklist by either indicating "Yes" or "No". If you indicate "No" then provide an explanation of why beneath the table.
 
 |Question                                                    |Response|
 |------------------------------------------------------------|--------|
-|Are the links above public and working?                     |        |
-|Did you complete all the unique requirements for the module?|        |
-|Did you write at least 100 lines of code?                   |        |
-|Did you fully complete the readme.md file?                  |        |
-|Did you put the readme.md file in GitHub in the top folder? |        |
+|Are the links above public and working?                     |  yes   |
+|Did you complete all the unique requirements for the module?|  yes   |
+|Did you write at least 100 lines of code?                   |  yes   |
+|Did you fully complete the readme.md file?                  |  yes   |
+|Did you put the readme.md file in GitHub in the top folder? |  yes   |
 
 4. If you completed a Stretch Challenge (as shown in the Module Description document in Canvas) then describe what you did.  If you did the Choose Your Own Adventure module, then you get to decide what qualifies as a Stretch Challenge.
 
@@ -134,3 +135,5 @@ No
 |Individual Module|       13:30        |
 
 7. What strategies (behavioral and technical) worked well during this Sprint?  What did not work well?  List some possible ways that you can improve next Sprint.
+
+Sitting down for long periods of time was extremely helpful. I was able to stay focused and get a lot done in those times that I spent more than 1 hour at a time. I also finished the project well before the due date with was great. For next Sprint, I am going to start earlier so I can add more features and functionality.
