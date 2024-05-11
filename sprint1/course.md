@@ -93,7 +93,7 @@ Note that `IM` stands for Individual Module and `TP` stands for Team Project.
 |   5/6    |  10:30   |   TP   |   Created wireframe for our app            |    0:45     |
 |   5/6    |   2:30   |   IM   |Creating flappy bird app basic functionality|    6:30     |
 |   5/9    |  11:30   |   IM   |  Adding sound, fixing score after gameover |    3:00     |
-|          |          |        |                                            |             |
+|   5/11   |  12:45   |   IM   |  Uploading game to simmer, finishing readme|    1:30     |
 |          |          |        |                                            |             |
 |          |          |        |                                            |             |
 
@@ -105,7 +105,7 @@ _Note: Add more rows as needed._
 
 This section should be filled out at the end of the Sprint and submitted.
 
-1. Put your GitHub link for your demonstration software here: 
+1. Put your GitHub link for your demonstration software here: https://simmer.io/@cosmo4/flappy-pig The Unity project folder was huge and I had trouble uploading everything to github. I included all my C# coding files in the github repo. I used Simmer to upload my game so you can play it if you like.
 
 2. Put your YouTube link for your code walkthrough and demo video here:
 
@@ -121,12 +121,16 @@ This section should be filled out at the end of the Sprint and submitted.
 
 4. If you completed a Stretch Challenge (as shown in the Module Description document in Canvas) then describe what you did.  If you did the Choose Your Own Adventure module, then you get to decide what qualifies as a Stretch Challenge.
 
+I added sound effects to my game: jumping, getting a point, and dying all have their own sounds.
+
 5. Did you change your selected module during the middle of the Sprint?  If yes, then describe what you changed it to, when you changed it, and why you changed it.
+
+No
 
 6. Using the log above, fill in the total hours and minutes you spent on the individual module:
 
 |Activity         |Total Hours:Minutes|
 |-----------------|-------------------|
-|Individual Module|                   |
+|Individual Module|       13:30        |
 
 7. What strategies (behavioral and technical) worked well during this Sprint?  What did not work well?  List some possible ways that you can improve next Sprint.
