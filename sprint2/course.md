@@ -32,19 +32,48 @@ This section should be filled on the first Monday of the Sprint and submitted
 
 3. Find the list of unique requirements for your selected module in the Module Summary in Canvas.  In some circumstances, you will need to modify the requirements based on the technology or language you selected.  For the Choose Your Own Adventure, you need to create your own requirements.  List the unique module requirements below:
 
+Create a Mobile App using one of the following platforms:
+
+* Android - Java or Kotlin
+* iOS - Swift - Note that you need a Mac using XCode for this option
+* React Native - Javascript - Creates Android/iOS compatible apps
+* Flutter/Dart - Creates Web/Android/iOS compatible apps
+
+The app must have the following characteristics:
+
+* Have at least one screen
+* Be interactive with the user (e.g. responds to inputs by displaying appropriate outputs)
+
+Stretch Challenges (select one):
+
+* Integrate with a component on the phone such as the camera, microphone, sensor, or location services.
+* Incorporate two or more screens
+* Store data either in local storage so is persists even if the app closes or if the phone is turned off
+
 ### Section 1.2 - Planning
 
 During the Sprint, you will spend 4 hours in class meetings, 4 hours on your team project (2 of which during class), and 10 hours on your selected module.  Make a plan for your 10 hours by answering the questions below.  You should refer back to this plan and make adjustments during the Sprint.
 
 1. What sources have you selected to learn the technical material?
 
+https://www.youtube.com/watch?v=l_DyOJJxuMI (How to make and publish an app in the google play store)
+https://www.youtube.com/watch?v=zvp7wvbyceo Xamarin Tutorial
+
 2. What is your plan to practice the new material?  In other words, what is the order in which you plan to learn the material before working on your demonstration software?
+
+First I will research my options for a dev environment. I will look at Xamarin, Flutter, and React Native and decide which one will be the best for my project. Once chosen, I will watch more tutorial videos and code along with them to help develop my skills and understanding.
 
 3. What demonstration software do you plan on submitting at the end of the Sprint (note that this can and may change)?
 
+I will hopefully be able to submit a link to the Google Play store and the App store.
+
 4. Identify the days, times, and locations that you will work on the module.
 
+I will work on this module on the days that I have class so it is fresh: Mon, Wed, Fri for 2 hours each of those days on my home computer.
+
 5. Identify both a technical risk and a behavioral risk that you antcipate may occur during this Sprint.  What is your mitgigation plan?
+
+It's possible I am unable to publish the app to any app store and I might need to turn in an sdk file instead. I will make sure that the library or framework I choose will allow me to do that.
 
 
 ## Part 2 - Time Log
