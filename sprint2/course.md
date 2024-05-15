@@ -86,7 +86,7 @@ Note that `IM` stands for Individual Module and `TP` stands for Team Project.
 
 |Date      |Start Time|IM or TP|Description                                 |Hours:Minutes|
 |----------|----------|--------|--------------------------------------------|-------------|
-|          |          |        |                                            |             |
+|   5/14   |   10:30  |   IM   | Set up dev env, .NET MAUI, Follow tutorial |    3:00     |
 |          |          |        |                                            |             |
 |          |          |        |                                            |             |
 |          |          |        |                                            |             |
