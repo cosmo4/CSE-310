@@ -88,7 +88,7 @@ Note that `IM` stands for Individual Module and `TP` stands for Team Project.
 |----------|----------|--------|--------------------------------------------|-------------|
 |   5/14   |   10:30  |   IM   | Set up dev env, .NET MAUI, Follow tutorial |    3:00     |
 |   5/15   |    12:20 |   TP   | Learning about python WebView for login    |    1:00     |
-|          |          |        |                                            |             |
+|   5/21   |   11:00  |   TP   | Used CustomTkinter for signup and login    |    3:33     |
 |          |          |        |                                            |             |
 |          |          |        |                                            |             |
 |          |          |        |                                            |             |
