@@ -90,7 +90,7 @@ Note that `IM` stands for Individual Module and `TP` stands for Team Project.
 |   5/15   |    12:20 |   TP   | Learning about python WebView for login    |    1:00     |
 |   5/21   |   11:00  |   TP   | Used CustomTkinter for signup and login    |    3:33     |
 |   5/21   |   7:30   |   IM   |  Home page built styling near done         |    4:08     |
-|          |          |        |                                            |             |
+|   5/22   |   10:30  |   IM   | Learning ContentView, Event styling, nav   |    1:45     |
 |          |          |        |                                            |             |
 |          |          |        |                                            |             |
 |          |          |        |                                            |             |
