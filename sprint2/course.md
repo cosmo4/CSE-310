@@ -91,8 +91,8 @@ Note that `IM` stands for Individual Module and `TP` stands for Team Project.
 |   5/21   |   11:00  |   TP   | Used CustomTkinter for signup and login    |    3:33     |
 |   5/21   |   7:30   |   IM   |  Home page built styling near done         |    4:08     |
 |   5/22   |   10:30  |   IM   | Learning ContentView, Event styling, nav   |    1:45     |
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
+|   5/24   |   5:30   |   IM   | Adding Players page, static test data      |    4:45     |
+|   5/24   |   10:30  |   IM   | Scores update rolls n rounds counted turns |    4:30     |
 |          |          |        |                                            |             |
 |          |          |        |                                            |             |
 |          |          |        |                                            |             |
