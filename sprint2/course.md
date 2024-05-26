@@ -94,7 +94,7 @@ Note that `IM` stands for Individual Module and `TP` stands for Team Project.
 |   5/22   |   2:30   |   TP   | Helped teammates solve merging issues      |    0:15     |
 |   5/24   |   5:30   |   IM   | Adding Players page, static test data      |    4:45     |
 |   5/24   |   10:30  |   IM   | Scores update rolls n rounds counted turns |    4:30     |
-|          |          |        |                                            |             |
+|   5/25   |   9:30   |   IM   |  Made video, updated readme                |    1:15     |
 |          |          |        |                                            |             |
 |          |          |        |                                            |             |
 
@@ -105,28 +105,34 @@ _Note: Add more rows as needed._
 
 This section should be filled out at the end of the Sprint and submitted.
 
-1. Put your GitHub link for your demonstration software here: 
+1. Put your GitHub link for your demonstration software here: https://github.com/cosmo4/BankApp/
 
-2. Put your YouTube link for your code walkthrough and demo video here:
+2. Put your YouTube link for your code walkthrough and demo video here: https://youtu.be/U7HLFb3YXVs
 
 3. Complete the following checklist by either indicating "Yes" or "No". If you indicate "No" then provide an explanation of why beneath the table.
 
 |Question                                                    |Response|
 |------------------------------------------------------------|--------|
-|Are the links above public and working?                     |        |
-|Did you complete all the unique requirements for the module?|        |
-|Did you write at least 100 lines of code?                   |        |
-|Did you fully complete the readme.md file?                  |        |
-|Did you put the readme.md file in GitHub in the top folder? |        |
+|Are the links above public and working?                     |  YES   |
+|Did you complete all the unique requirements for the module?|  YES   |
+|Did you write at least 100 lines of code?                   |  YES   |
+|Did you fully complete the readme.md file?                  |  YES   |
+|Did you put the readme.md file in GitHub in the top folder? |  YES   |
 
 4. If you completed a Stretch Challenge (as shown in the Module Description document in Canvas) then describe what you did.  If you did the Choose Your Own Adventure module, then you get to decide what qualifies as a Stretch Challenge.
 
+I added a second screen to my mobile app
+
 5. Did you change your selected module during the middle of the Sprint?  If yes, then describe what you changed it to, when you changed it, and why you changed it.
+
+No
 
 6. Using the log above, fill in the total hours and minutes you spent on the individual module:
 
 |Activity         |Total Hours:Minutes|
 |-----------------|-------------------|
-|Individual Module|                   |
+|Individual Module|        19:08      |
 
 7. What strategies (behavioral and technical) worked well during this Sprint?  What did not work well?  List some possible ways that you can improve next Sprint.
+
+I think that I was too ambitious in my game idea. I will plan to make something more simplified but that still utilizes all the basic fundamentals of the software technology. I really was getting into learning .NET MAUI and wanted to spend more time than I did, I just didn't have enough time to do everything I wanted.
