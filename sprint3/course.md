@@ -81,11 +81,11 @@ Note that `IM` stands for Individual Module and `TP` stands for Team Project.
 
 |Date      |Start Time|IM or TP|Description                                 |Hours:Minutes|
 |----------|----------|--------|--------------------------------------------|-------------|
-|   5/30   |    4:00  |   TP   | Implemented login/signup to production env |    3:30     |
-|   5/31   |   11:30  |   IM   | Started learning DynamoDB                  |    3:25     |
+|   5/30   |   4:00   |   TP   | Implemented login/signup to production env |    3:30     |
+|   5/31   |   11:30  |   IM   |Started learning DynamoDB changed to MongoDb|    3:25     |
 |   6/3    |   2:15   |   IM   |Followed along with .NET tutorial fixed bugs|    4:10     |
 |   6/4    |   8:40   |   IM   |Followed tutorial for beginners started proj|    2:40     |
-|          |          |        |                                            |             |
+|   6/5    |   5:25   |   IM   | Added get,post,put,delete requests         |    3:15     |
 |          |          |        |                                            |             |
 
 _Note: Add more rows as needed._
@@ -117,7 +117,9 @@ This section should be filled out at the end of the Sprint and submitted.
 
 |Activity         |Total Hours:Minutes|
 |-----------------|-------------------|
-|Individual Module|                   |
+|Individual Module|       13:25       |
 
 7. What strategies (behavioral and technical) worked well during this Sprint?  What did not work well?  List some possible ways that you can improve next Sprint.
+
+I think that doing a little bit everyday helped to guide me towards the final product I have. Being set on one software tool cost me a few hours. I was having so many problems with AWS DynamoDB that I decided to change cloud services entirely. I think I should've seriously considered the Guidance section recommending python and google firestore.
 
