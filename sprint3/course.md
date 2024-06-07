@@ -81,10 +81,10 @@ Note that `IM` stands for Individual Module and `TP` stands for Team Project.
 
 |Date      |Start Time|IM or TP|Description                                 |Hours:Minutes|
 |----------|----------|--------|--------------------------------------------|-------------|
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
+|   5/30   |    4:00  |   TP   | Implemented login/signup to production env |    3:30     |
+|   5/31   |   11:30  |   IM   | Started learning DynamoDB                  |    3:25     |
+|   6/3    |   2:15   |   IM   |Followed along with .NET tutorial fixed bugs|    4:10     |
+|   6/4    |   8:40   |   IM   |Followed tutorial for beginners started proj|    2:40     |
 |          |          |        |                                            |             |
 |          |          |        |                                            |             |
 
