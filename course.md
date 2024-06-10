@@ -38,7 +38,7 @@ Every Sprint you will be setting a goal to improve one of your learning skills. 
 
 1. Complete the following Learning Skill Survey:
 
-|Learning Skill Survey (3=Frequently, 2=Sometimes, 1=Rarely |           |
+|Learning Skill Survey (3=Frequently, 2=Sometimes, 1=Rarely)|           |
 |-----------------------------------------------------------|-----------|
 |**Time Management Skills**                                 |**Ranking**|
 |I use multiple sources of information.                     |     3     |
