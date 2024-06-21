@@ -86,10 +86,10 @@ Note that `IM` stands for Individual Module and `TP` stands for Team Project.
 
 |Date      |Start Time|IM or TP|Description                                 |Hours:Minutes|
 |----------|----------|--------|--------------------------------------------|-------------|
-|   6/10   |          |        |                                            |             |
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
+|   6/10   |   5:30   |   IM   |  Getting started with pandas, installing   |    2:45     |
+|   6/12   |   7:00   |   TP   |Finished uploading feature, creates new note|    3:20     |
+|   6/19   |   5:00   |   IM   |Dataset cleaned, learning methods of Pandas |    6:30     |
+|   6/20   |   11:00  |   IM   |Finished program tranfering laptop to test  |    1:15     |
 |          |          |        |                                            |             |
 |          |          |        |                                            |             |
 
