@@ -58,14 +58,25 @@ During the Sprint, you will spend 4 hours in class meetings, 4 hours on your tea
 
 1. What sources have you selected to learn the technical material?
 
+[Rust Programming](https://www.rust-lang.org/learn/get-started)
+[Rust Tutorial - An Introduction](https://www.youtube.com/watch?v=T_KrYLW4jw8&t=1s)
+[Using Cargo](https://doc.rust-lang.org/book/ch01-03-hello-cargo.html)
+
 2. What is your plan to practice the new material?  In other words, what is the order in which you plan to learn the material before working on your demonstration software?
+
+I will focus on the articles and tutorials listed above for the first 5 hours of the sprint. I want to learn the software better before I try and make anything.
 
 3. What demonstration software do you plan on submitting at the end of the Sprint (note that this can and may change)?
 
+I have never used Rust, but I know I can write my code using VS Code so probably just an executable file.
+
 4. Identify the days, times, and locations that you will work on the module.
+
+I will work on this module on the days that I have class so it is fresh: Mon, Wed, Fri for 2 hours each of those days on my home computer.
 
 5. Identify both a technical risk and a behavioral risk that you antcipate may occur during this Sprint.  What is your mitgigation plan?
 
+I might have problems getting a working GUI, so I may just have to run something in the terminal. Using Rust is brand new for me so it is important that I take a lot of time learning about it.
 
 ## Part 2 - Time Log
 
