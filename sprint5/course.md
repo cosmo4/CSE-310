@@ -88,7 +88,7 @@ Note that `IM` stands for Individual Module and `TP` stands for Team Project.
 
 |Date      |Start Time|IM or TP|Description                                 |Hours:Minutes|
 |----------|----------|--------|--------------------------------------------|-------------|
-|          |          |        |                                            |             |
+|   6/26   |  10:30   |   TP   | Enabled Google Cloud Vision API in project |    1:00     |
 |          |          |        |                                            |             |
 |          |          |        |                                            |             |
 |          |          |        |                                            |             |
