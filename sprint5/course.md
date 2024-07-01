@@ -90,7 +90,7 @@ Note that `IM` stands for Individual Module and `TP` stands for Team Project.
 |----------|----------|--------|--------------------------------------------|-------------|
 |   6/26   |  10:30   |   TP   | Enabled Google Cloud Vision API in project |    1:00     |
 |   6/30   |   1:30   |   TP   | Upgraded Draw Window class, now saves img  |    4:00     |
-|          |          |        |                                            |             |
+|   7/1    |   4:30   |   TP   | Tinkering with Vision API                  |    1:15     |
 |          |          |        |                                            |             |
 |          |          |        |                                            |             |
 |          |          |        |                                            |             |
