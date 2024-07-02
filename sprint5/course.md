@@ -89,10 +89,11 @@ Note that `IM` stands for Individual Module and `TP` stands for Team Project.
 |Date      |Start Time|IM or TP|Description                                 |Hours:Minutes|
 |----------|----------|--------|--------------------------------------------|-------------|
 |   6/26   |  10:30   |   TP   | Enabled Google Cloud Vision API in project |    1:00     |
+|   6/27   |   3:30   |   IM   | Started learning about Rust syntax         |    4:00     |
 |   6/30   |   1:30   |   TP   | Upgraded Draw Window class, now saves img  |    4:00     |
 |   7/1    |   4:30   |   TP   | Tinkering with Vision API                  |    1:15     |
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
+|   7/1    |   4:00   |   IM   | Getting frustrated with scraping, giving up|    5:00     |
+|   7/2    |   2:00   |   IM   | Going back to basics, made txt file reader |    2:00     |
 |          |          |        |                                            |             |
 
 _Note: Add more rows as needed._
@@ -102,19 +103,19 @@ _Note: Add more rows as needed._
 
 This section should be filled out at the end of the Sprint and submitted.
 
-1. Put your GitHub link for your demonstration software here: 
+1. Put your GitHub link for your demonstration software here: https://github.com/cosmo4/rust_demo
 
-2. Put your YouTube link for your code walkthrough and demo video here:
+2. Put your YouTube link for your code walkthrough and demo video here: https://youtu.be/bUzEF5oRi2Q
 
 3. Complete the following checklist by either indicating "Yes" or "No". If you indicate "No" then provide an explanation of why beneath the table.
 
 |Question                                                    |Response|
 |------------------------------------------------------------|--------|
-|Are the links above public and working?                     |        |
-|Did you complete all the unique requirements for the module?|        |
-|Did you write at least 100 lines of code?                   |        |
-|Did you fully complete the readme.md file?                  |        |
-|Did you put the readme.md file in GitHub in the top folder? |        |
+|Are the links above public and working?                     |  Yes   |
+|Did you complete all the unique requirements for the module?|  Yes   |
+|Did you write at least 100 lines of code?                   |  Yes   |
+|Did you fully complete the readme.md file?                  |  Yes   |
+|Did you put the readme.md file in GitHub in the top folder? |  Yes   |
 
 4. If you completed a Stretch Challenge (as shown in the Module Description document in Canvas) then describe what you did.  If you did the Choose Your Own Adventure module, then you get to decide what qualifies as a Stretch Challenge.
 
@@ -124,6 +125,8 @@ This section should be filled out at the end of the Sprint and submitted.
 
 |Activity         |Total Hours:Minutes|
 |-----------------|-------------------|
-|Individual Module|                   |
+|Individual Module|       11:00       |
 
 7. What strategies (behavioral and technical) worked well during this Sprint?  What did not work well?  List some possible ways that you can improve next Sprint.
+
+I think I over shot on my goal of making a web scraper in Rust. First off, I've never done that in any language and I thought it could be fun to learn how. I ran into quite a few problems though and ChatGPT couldn't help me figure it out. One thing that did work for me was learning all the basics of Rust. I found a lot of things to be transferrable from other languages, but there was a lot of new syntax and small things to remember. 
